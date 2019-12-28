@@ -1,0 +1,4 @@
+sbatch IMDB_glove_300_PCA_adam_0.999_52.sh 
+sbatch IMDB_glove_300_PCA_adam_0.0001_52.sh 
+sbatch IMDB_glove_300_PCA_adabound_0.999_52.sh 
+sbatch IMDB_glove_300_PCA_adabound_0.0001_52.sh 
